@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "23031662642",
+    "project_id": "otptimun",
+    "storage_bucket": "otptimun.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23031662642:android:352c3bcefd5d8b4ea4942b",
+        "android_client_info": {
+          "package_name": "com.timun.otp1.otp1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23031662642-j7ipqlgthrgt8dqu1vkddeofan26btgb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.timun.otp1.otp1",
+            "certificate_hash": "1152084089a28c94309e02467a69df91be7a3173"
+          }
+        },
+        {
+          "client_id": "23031662642-ut2aousnl19r5efa2lsct9v7peiqps9a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdBIflZtFqd48tNkNdEqgw83JOsj7xIcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23031662642-ut2aousnl19r5efa2lsct9v7peiqps9a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
